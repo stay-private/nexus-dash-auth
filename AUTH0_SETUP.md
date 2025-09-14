@@ -27,7 +27,7 @@
 ## For Production
 
 Create environment variables:
-- `REACT_APP_AUTH0_DOMAIN=your-domain.auth0.com`
-- `REACT_APP_AUTH0_CLIENT_ID=your-client-id`
+- `VITE_AUTH0_DOMAIN=your-domain.auth0.com`
+- `VITE_AUTH0_CLIENT_ID=your-client-id`
 
 The app will automatically use these if available.
